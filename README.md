@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">I am a Software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.Net,React**
+- 🌱 I’m currently learning **.Net,Microservices,Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ourcelik?tab=repositories](https://github.com/ourcelik?tab=repositories)
 
